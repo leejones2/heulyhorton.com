@@ -1,4 +1,3 @@
 name = "heulyhorton"
 compatibility_date = "2025-05-01"
-[assets]
-  directory = "./content"
+assets = { directory = "./content" }
